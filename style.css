@@ -1,0 +1,45 @@
+.first{
+    background-color: yellow;
+    text-align: center;
+    border-radius: 20px;
+
+}
+h1.heading{
+      text-align: center;
+      padding: 30px;
+      margin: -4px;
+      font-size: 60px;
+     }
+div.photo{
+          padding: 20px;
+          padding-top: 0px;
+          border: 2px solid black;
+          margin: 50px;
+          border-radius: 20px;
+         }
+img.image{
+          width: 165px;
+          border: 30px solid rgb(249, 211, 108);
+          border-block-end-width: 70px;
+          border-radius: 20px;
+         }
+h3.heading2{
+          
+          text-align: center;
+          margin: 7;
+          font-size: 30px;
+          background-color: #cbf9f9;
+          border-radius: 10px;
+          
+         }
+div.photo:hover{
+    background-color: rgba(253, 213, 240, 0.788);
+}
+div.inner{
+    font-size: 30px;
+    width: 50%;
+    float: right;
+    margin: 0px;
+    margin-right: 200px;
+    margin-top: 5px; 
+}
